@@ -1,0 +1,22 @@
+	Welcome To Baheti Provision
+
+ Bill Number   : 7186
+ Customer Name : vaishnavi
+ Phone Number  : 9021202022
+ ======================================
+ Products		QTY		Price
+ ======================================
+ Lipstick		1		100
+ Bath Soap		1		25
+ Face Wash		1		60
+ Rice		1		50
+ Food Oil		1		80
+ Daal		1		50
+ Tea		1		30
+ Spirit		1		30
+ --------------------------------------
+ Cosmetic Tax			Rs. 9.25
+ Grocery Tax			Rs. 6.3
+ Cold Drink Tax			Rs. 1.5
+ --------------------------------------
+ Total Bill :			 Rs. 442.05

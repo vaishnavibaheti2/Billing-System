@@ -1,0 +1,20 @@
+	Welcome To Baheti Provision
+
+ Bill Number   : 8186
+ Customer Name : Vaishnavi Baheti
+ Phone Number  : 8888888888
+ ======================================
+ Products		QTY		Price
+ ======================================
+ Bath Soap		2		50
+ Face Wash		1		60
+ Body Lotion		1		80
+ Rice		5		250
+ Sugar		5		190
+ Thumps Up		1		0
+ --------------------------------------
+ Cosmetic Tax			Rs. 9.5
+ Grocery Tax			Rs. 13.2
+ Cold Drink Tax			Rs. 1.5
+ --------------------------------------
+ Total Bill :			 Rs. 684.2
